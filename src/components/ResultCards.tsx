@@ -59,18 +59,30 @@ function Card({ title, p10, p50, p90, format, accent }: CardProps) {
         </div>
       </div>
 
-      {/* Range bar */}
+      {/* Range bar — shows P50 position within P10–P90 */}
       <div className="mt-3">
         <div
-          className="h-1 rounded-full"
+          className="relative h-1.5 rounded-full"
           style={{ background: accent ? "rgba(255,255,255,0.15)" : "var(--bg-tertiary)" }}
         >
+          {/* P10–P90 filled range */}
           <div
-            className="relative h-full rounded-full"
+            className="absolute h-full rounded-full"
             style={{
-              background: accent ? "rgba(255,255,255,0.4)" : "var(--accent)",
-              opacity: accent ? 1 : 0.3,
-              width: p90 > 0 ? `${Math.min(100, (p50 / p90) * 100)}%` : "50%",
+              background: accent ? "rgba(255,255,255,0.25)" : "var(--accent)",
+              opacity: accent ? 1 : 0.15,
+              left: "0%",
+              width: "100%",
+            }}
+          />
+          {/* P50 marker */}
+          <div
+            className="absolute top-1/2 h-3 w-3 -translate-y-1/2 rounded-full"
+            style={{
+              background: accent ? "#ffffff" : "var(--accent)",
+              left: p90 > p10 ? `${Math.min(100, Math.max(0, ((p50 - p10) / (p90 - p10)) * 100))}%` : "50%",
+              transform: "translate(-50%, -50%)",
+              boxShadow: "0 1px 3px rgba(0,0,0,0.2)",
             }}
           />
         </div>
