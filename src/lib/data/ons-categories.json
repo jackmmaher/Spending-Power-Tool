@@ -1,0 +1,1766 @@
+[
+  {
+    "code": "1",
+    "name": "Food & non-alcoholic drinks",
+    "weeklySpend": 70.5,
+    "totalWeeklyMillion": 2008.0,
+    "level": 1
+  },
+  {
+    "code": "1.1",
+    "name": "Food",
+    "weeklySpend": 64.3,
+    "totalWeeklyMillion": 1832.0,
+    "level": 1
+  },
+  {
+    "code": "1.1.1",
+    "name": "Bread, rice and cereals",
+    "weeklySpend": 6.2,
+    "totalWeeklyMillion": 176.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.2",
+    "name": "Pasta products",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.3",
+    "name": "Buns, cakes, biscuits etc.",
+    "weeklySpend": 4.9,
+    "totalWeeklyMillion": 138.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.4",
+    "name": "Pastry (savoury)",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 32.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.5",
+    "name": "Beef (fresh, chilled or frozen)",
+    "weeklySpend": 2.0,
+    "totalWeeklyMillion": 57.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.6",
+    "name": "Pork (fresh, chilled or frozen)",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.7",
+    "name": "Lamb (fresh, chilled or frozen)",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.8",
+    "name": "Poultry (fresh, chilled or frozen)",
+    "weeklySpend": 2.5,
+    "totalWeeklyMillion": 70.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.9",
+    "name": "Bacon and ham",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.10",
+    "name": "Other meats and meat preparations",
+    "weeklySpend": 7.6,
+    "totalWeeklyMillion": 217.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.11",
+    "name": "Fish and fish products",
+    "weeklySpend": 3.0,
+    "totalWeeklyMillion": 85.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.12",
+    "name": "Milk",
+    "weeklySpend": 2.3,
+    "totalWeeklyMillion": 66.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.13",
+    "name": "Cheese and curd",
+    "weeklySpend": 2.6,
+    "totalWeeklyMillion": 75.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.14",
+    "name": "Eggs",
+    "weeklySpend": 1.0,
+    "totalWeeklyMillion": 29.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.15",
+    "name": "Other milk products and yoghurt",
+    "weeklySpend": 2.8,
+    "totalWeeklyMillion": 79.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.16",
+    "name": "Butter",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.17",
+    "name": "Margarine, other vegetable fats and peanut butter",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 19.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.18",
+    "name": "Cooking oils and fats",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 14.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.19",
+    "name": "Fresh fruit",
+    "weeklySpend": 4.0,
+    "totalWeeklyMillion": 115.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.20",
+    "name": "Other fresh, chilled or frozen fruits",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 14.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.21",
+    "name": "Dried fruit and nuts",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.22",
+    "name": "Preserved fruit and fruit based products",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 4.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.23",
+    "name": "Fresh vegetables",
+    "weeklySpend": 4.6,
+    "totalWeeklyMillion": 132.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.24",
+    "name": "Dried vegetables",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 2.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.25",
+    "name": "Other preserved or processed vegetables",
+    "weeklySpend": 2.2,
+    "totalWeeklyMillion": 62.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.26",
+    "name": "Potatoes",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 18.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.27",
+    "name": "Other tubers and products of tuber vegetables",
+    "weeklySpend": 2.3,
+    "totalWeeklyMillion": 66.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.28",
+    "name": "Sugar and sugar products",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 13.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.29",
+    "name": "Jams, marmalades",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 9.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.30",
+    "name": "Chocolate",
+    "weeklySpend": 2.6,
+    "totalWeeklyMillion": 73.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.31",
+    "name": "Confectionery products",
+    "weeklySpend": 1.0,
+    "totalWeeklyMillion": 28.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.32",
+    "name": "Edible ices and ice cream",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "1.1.33",
+    "name": "Other food products",
+    "weeklySpend": 3.4,
+    "totalWeeklyMillion": 98.0,
+    "level": 2
+  },
+  {
+    "code": "1.2",
+    "name": "Non-alcoholic drinks",
+    "weeklySpend": 6.2,
+    "totalWeeklyMillion": 177.0,
+    "level": 1
+  },
+  {
+    "code": "1.2.1",
+    "name": "Coffee",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 33.0,
+    "level": 2
+  },
+  {
+    "code": "1.2.2",
+    "name": "Tea",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 14.0,
+    "level": 2
+  },
+  {
+    "code": "1.2.3",
+    "name": "Cocoa and powdered chocolate",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 4.0,
+    "level": 2
+  },
+  {
+    "code": "1.2.4",
+    "name": "Fruit and vegetable juices",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 34.0,
+    "level": 2
+  },
+  {
+    "code": "1.2.5",
+    "name": "Mineral or spring waters",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 11.0,
+    "level": 2
+  },
+  {
+    "code": "1.2.6",
+    "name": "Soft drinks (inc. fizzy and ready to drink fruit drinks)",
+    "weeklySpend": 2.8,
+    "totalWeeklyMillion": 80.0,
+    "level": 2
+  },
+  {
+    "code": "2",
+    "name": "Alcoholic drink, tobacco & narcotics",
+    "weeklySpend": 11.1,
+    "totalWeeklyMillion": 316.0,
+    "level": 1
+  },
+  {
+    "code": "2.1",
+    "name": "Alcoholic drinks",
+    "weeklySpend": 8.5,
+    "totalWeeklyMillion": 242.0,
+    "level": 1
+  },
+  {
+    "code": "2.1.1",
+    "name": "Spirits and liqueurs (brought home)",
+    "weeklySpend": 2.1,
+    "totalWeeklyMillion": 58.0,
+    "level": 2
+  },
+  {
+    "code": "2.1.2",
+    "name": "Wines, fortified wines (brought home)",
+    "weeklySpend": 4.1,
+    "totalWeeklyMillion": 116.0,
+    "level": 2
+  },
+  {
+    "code": "2.1.3",
+    "name": "Beer, lager, ciders and perry (brought home)",
+    "weeklySpend": 2.3,
+    "totalWeeklyMillion": 66.0,
+    "level": 2
+  },
+  {
+    "code": "2.2",
+    "name": "Tobacco and narcotics",
+    "weeklySpend": 2.6,
+    "totalWeeklyMillion": 74.0,
+    "level": 1
+  },
+  {
+    "code": "2.2.1",
+    "name": "Cigarettes",
+    "weeklySpend": 1.4,
+    "totalWeeklyMillion": 41.0,
+    "level": 2
+  },
+  {
+    "code": "2.2.2",
+    "name": "Cigars, other tobacco products and narcotics",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 33.0,
+    "level": 2
+  },
+  {
+    "code": "3",
+    "name": "Clothing & footwear",
+    "weeklySpend": 17.5,
+    "totalWeeklyMillion": 498.0,
+    "level": 1
+  },
+  {
+    "code": "3.1",
+    "name": "Clothing",
+    "weeklySpend": 14.1,
+    "totalWeeklyMillion": 401.0,
+    "level": 1
+  },
+  {
+    "code": "3.1.1",
+    "name": "Men's outer garments",
+    "weeklySpend": 3.5,
+    "totalWeeklyMillion": 100.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.2",
+    "name": "Men's under garments",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 15.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.3",
+    "name": "Women's outer garments",
+    "weeklySpend": 5.7,
+    "totalWeeklyMillion": 162.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.4",
+    "name": "Women's under garments",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 33.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.5",
+    "name": "Boys' outer garments (5-15)",
+    "weeklySpend": 0.8,
+    "totalWeeklyMillion": 22.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.6",
+    "name": "Girls' outer garments (5-15)",
+    "weeklySpend": 0.8,
+    "totalWeeklyMillion": 22.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.7",
+    "name": "Infants' outer garments (under 5)",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 11.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.8",
+    "name": "Children's under garments (under 16)",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 9.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.9",
+    "name": "Accessories",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 13.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.10",
+    "name": "Haberdashery, clothing materials and clothing hire",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 8.0,
+    "level": 2
+  },
+  {
+    "code": "3.1.11",
+    "name": "Dry cleaners, laundry and dyeing",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 4.0,
+    "level": 2
+  },
+  {
+    "code": "3.2",
+    "name": "Footwear",
+    "weeklySpend": 3.4,
+    "totalWeeklyMillion": 97.0,
+    "level": 1
+  },
+  {
+    "code": "3.2.1",
+    "name": "Footwear for men",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 35.0,
+    "level": 2
+  },
+  {
+    "code": "3.2.2",
+    "name": "Footwear for women",
+    "weeklySpend": 1.7,
+    "totalWeeklyMillion": 49.0,
+    "level": 2
+  },
+  {
+    "code": "3.2.3",
+    "name": "Footwear for children (5 to 15 years) and infants (under 5)",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 12.0,
+    "level": 2
+  },
+  {
+    "code": "4",
+    "name": "Housing(net)\u00b9, fuel & power",
+    "weeklySpend": 113.3,
+    "totalWeeklyMillion": 3227.0,
+    "level": 1
+  },
+  {
+    "code": "4.1",
+    "name": "Actual rentals for housing",
+    "weeklySpend": 60.5,
+    "totalWeeklyMillion": 1723.0,
+    "level": 1
+  },
+  {
+    "code": "4.1.1",
+    "name": "Gross rent",
+    "weeklySpend": 60.5,
+    "totalWeeklyMillion": 1722.0,
+    "level": 2
+  },
+  {
+    "code": "4.1.2",
+    "name": "less housing benefit, rebates and allowances received",
+    "weeklySpend": 9.8,
+    "totalWeeklyMillion": 279.0,
+    "level": 2
+  },
+  {
+    "code": "4.1.3",
+    "name": "Net rent\u00b2",
+    "weeklySpend": 50.7,
+    "totalWeeklyMillion": 1443.0,
+    "level": 2
+  },
+  {
+    "code": "4.2",
+    "name": "Maintenance and repair of dwelling",
+    "weeklySpend": 11.0,
+    "totalWeeklyMillion": 314.0,
+    "level": 1
+  },
+  {
+    "code": "4.2.1",
+    "name": "Central heating repairs",
+    "weeklySpend": 1.5,
+    "totalWeeklyMillion": 42.0,
+    "level": 2
+  },
+  {
+    "code": "4.2.2",
+    "name": "House maintenance etc.",
+    "weeklySpend": 6.9,
+    "totalWeeklyMillion": 196.0,
+    "level": 2
+  },
+  {
+    "code": "4.2.3",
+    "name": "Paint, wallpaper, timber",
+    "weeklySpend": 1.4,
+    "totalWeeklyMillion": 41.0,
+    "level": 2
+  },
+  {
+    "code": "4.2.4",
+    "name": "Equipment hire, small materials",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 35.0,
+    "level": 2
+  },
+  {
+    "code": "4.3",
+    "name": "Water supply and miscellaneous services relating to the dwelling",
+    "weeklySpend": 11.1,
+    "totalWeeklyMillion": 316.0,
+    "level": 1
+  },
+  {
+    "code": "4.3.1",
+    "name": "Water charges",
+    "weeklySpend": 8.5,
+    "totalWeeklyMillion": 242.0,
+    "level": 2
+  },
+  {
+    "code": "4.3.2",
+    "name": "Other regular housing payments including service charge for rent",
+    "weeklySpend": 2.4,
+    "totalWeeklyMillion": 69.0,
+    "level": 2
+  },
+  {
+    "code": "4.3.3",
+    "name": "Refuse collection, including skip hire",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 4.0,
+    "level": 2
+  },
+  {
+    "code": "4.4",
+    "name": "Electricity, gas and other fuels",
+    "weeklySpend": 40.5,
+    "totalWeeklyMillion": 1153.0,
+    "level": 1
+  },
+  {
+    "code": "4.4.1",
+    "name": "Electricity",
+    "weeklySpend": 21.5,
+    "totalWeeklyMillion": 613.0,
+    "level": 2
+  },
+  {
+    "code": "4.4.2",
+    "name": "Gas",
+    "weeklySpend": 17.0,
+    "totalWeeklyMillion": 484.0,
+    "level": 2
+  },
+  {
+    "code": "4.4.3",
+    "name": "Other fuels",
+    "weeklySpend": 2.0,
+    "totalWeeklyMillion": 56.0,
+    "level": 2
+  },
+  {
+    "code": "5",
+    "name": "Household goods & services",
+    "weeklySpend": 38.7,
+    "totalWeeklyMillion": 1102.0,
+    "level": 1
+  },
+  {
+    "code": "5.1",
+    "name": "Furniture and furnishings, carpets and other floor coverings",
+    "weeklySpend": 21.3,
+    "totalWeeklyMillion": 605.0,
+    "level": 1
+  },
+  {
+    "code": "5.1.1",
+    "name": "Furniture and furnishings",
+    "weeklySpend": 17.3,
+    "totalWeeklyMillion": 492.0,
+    "level": 2
+  },
+  {
+    "code": "5.1.2",
+    "name": "Floor coverings",
+    "weeklySpend": 4.0,
+    "totalWeeklyMillion": 113.0,
+    "level": 2
+  },
+  {
+    "code": "5.2",
+    "name": "Household textiles",
+    "weeklySpend": 2.2,
+    "totalWeeklyMillion": 61.0,
+    "level": 1
+  },
+  {
+    "code": "5.2.1",
+    "name": "Bedroom textiles, including duvets and pillows",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 26.0,
+    "level": 2
+  },
+  {
+    "code": "5.2.2",
+    "name": "Other household textiles, including cushions, towels, curtains",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 35.0,
+    "level": 2
+  },
+  {
+    "code": "5.3",
+    "name": "Household appliances",
+    "weeklySpend": 3.4,
+    "totalWeeklyMillion": 96.0,
+    "level": 1
+  },
+  {
+    "code": "5.3.3",
+    "name": "Clothes washing machines and drying machines",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 6.0,
+    "level": 2
+  },
+  {
+    "code": "5.3.4",
+    "name": "Refrigerators, freezers and fridge-freezers",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 13.0,
+    "level": 2
+  },
+  {
+    "code": "5.3.7",
+    "name": "Small electric household appliances, excluding hairdryers",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 18.0,
+    "level": 2
+  },
+  {
+    "code": "5.3.8",
+    "name": "Repairs to gas and electrical appliances and spare parts",
+    "weeklySpend": 0.5,
+    "totalWeeklyMillion": 14.0,
+    "level": 2
+  },
+  {
+    "code": "5.4",
+    "name": "Glassware, tableware and household utensils",
+    "weeklySpend": 2.1,
+    "totalWeeklyMillion": 61.0,
+    "level": 1
+  },
+  {
+    "code": "5.4.1",
+    "name": "Glassware, china, pottery, cutlery and silverware",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 18.0,
+    "level": 2
+  },
+  {
+    "code": "5.4.2",
+    "name": "Kitchen and domestic utensils",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 26.0,
+    "level": 2
+  },
+  {
+    "code": "5.4.4",
+    "name": "Storage and other durable household articles",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "5.5",
+    "name": "Tools and equipment for house and garden",
+    "weeklySpend": 3.1,
+    "totalWeeklyMillion": 87.0,
+    "level": 1
+  },
+  {
+    "code": "5.5.1",
+    "name": "Electrical tools",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 7.0,
+    "level": 2
+  },
+  {
+    "code": "5.5.2",
+    "name": "Garden tools, equipment and accessories e.g. lawn mowers etc.",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 17.0,
+    "level": 2
+  },
+  {
+    "code": "5.5.3",
+    "name": "Small tools",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 11.0,
+    "level": 2
+  },
+  {
+    "code": "5.5.4",
+    "name": "Door, electrical and other fittings",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 31.0,
+    "level": 2
+  },
+  {
+    "code": "5.5.5",
+    "name": "Electrical consumables",
+    "weeklySpend": 0.8,
+    "totalWeeklyMillion": 22.0,
+    "level": 2
+  },
+  {
+    "code": "5.6",
+    "name": "Goods and services for routine household maintenance",
+    "weeklySpend": 6.7,
+    "totalWeeklyMillion": 192.0,
+    "level": 1
+  },
+  {
+    "code": "5.6.1",
+    "name": "Cleaning materials",
+    "weeklySpend": 2.9,
+    "totalWeeklyMillion": 82.0,
+    "level": 2
+  },
+  {
+    "code": "5.6.2",
+    "name": "Household goods and hardware",
+    "weeklySpend": 2.0,
+    "totalWeeklyMillion": 56.0,
+    "level": 2
+  },
+  {
+    "code": "5.6.3",
+    "name": "Domestic services, carpet cleaning, hire/repair of furniture/furnishings",
+    "weeklySpend": 1.9,
+    "totalWeeklyMillion": 54.0,
+    "level": 2
+  },
+  {
+    "code": "6",
+    "name": "Health",
+    "weeklySpend": 7.6,
+    "totalWeeklyMillion": 216.0,
+    "level": 1
+  },
+  {
+    "code": "6.1",
+    "name": "Medical products, appliances and equipment",
+    "weeklySpend": 4.2,
+    "totalWeeklyMillion": 119.0,
+    "level": 1
+  },
+  {
+    "code": "6.1.1",
+    "name": "Medicines, prescriptions and healthcare products",
+    "weeklySpend": 2.9,
+    "totalWeeklyMillion": 82.0,
+    "level": 2
+  },
+  {
+    "code": "6.1.2",
+    "name": "Spectacles, lenses, accessories and repairs",
+    "weeklySpend": 1.3,
+    "totalWeeklyMillion": 36.0,
+    "level": 2
+  },
+  {
+    "code": "6.2",
+    "name": "Hospital services",
+    "weeklySpend": 3.4,
+    "totalWeeklyMillion": 97.0,
+    "level": 1
+  },
+  {
+    "code": "6.2.1",
+    "name": "Out patient services",
+    "weeklySpend": 3.3,
+    "totalWeeklyMillion": 94.0,
+    "level": 2
+  },
+  {
+    "code": "7",
+    "name": "Transport",
+    "weeklySpend": 88.2,
+    "totalWeeklyMillion": 2513.0,
+    "level": 1
+  },
+  {
+    "code": "7.1",
+    "name": "Purchase of vehicles",
+    "weeklySpend": 31.2,
+    "totalWeeklyMillion": 889.0,
+    "level": 1
+  },
+  {
+    "code": "7.1.1",
+    "name": "Purchase of new cars and vans",
+    "weeklySpend": 7.3,
+    "totalWeeklyMillion": 209.0,
+    "level": 2
+  },
+  {
+    "code": "7.1.2",
+    "name": "Purchase of second hand cars or vans",
+    "weeklySpend": 23.0,
+    "totalWeeklyMillion": 656.0,
+    "level": 2
+  },
+  {
+    "code": "7.1.3",
+    "name": "Purchase of motorcycles",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 24.0,
+    "level": 2
+  },
+  {
+    "code": "7.2",
+    "name": "Operation of personal transport",
+    "weeklySpend": 33.5,
+    "totalWeeklyMillion": 955.0,
+    "level": 1
+  },
+  {
+    "code": "7.2.1",
+    "name": "Spares and accessories",
+    "weeklySpend": 2.7,
+    "totalWeeklyMillion": 76.0,
+    "level": 2
+  },
+  {
+    "code": "7.2.2",
+    "name": "Petrol, diesel and other motor oils",
+    "weeklySpend": 19.8,
+    "totalWeeklyMillion": 565.0,
+    "level": 2
+  },
+  {
+    "code": "7.2.3",
+    "name": "Repairs and servicing",
+    "weeklySpend": 8.2,
+    "totalWeeklyMillion": 233.0,
+    "level": 2
+  },
+  {
+    "code": "7.2.4",
+    "name": "Other motoring costs",
+    "weeklySpend": 2.9,
+    "totalWeeklyMillion": 81.0,
+    "level": 2
+  },
+  {
+    "code": "7.3",
+    "name": "Transport services",
+    "weeklySpend": 23.4,
+    "totalWeeklyMillion": 668.0,
+    "level": 1
+  },
+  {
+    "code": "7.3.1",
+    "name": "Rail and tube fares",
+    "weeklySpend": 3.7,
+    "totalWeeklyMillion": 104.0,
+    "level": 2
+  },
+  {
+    "code": "7.3.2",
+    "name": "Bus and coach fares",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 31.0,
+    "level": 2
+  },
+  {
+    "code": "7.3.3",
+    "name": "Combined fares",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 5.0,
+    "level": 2
+  },
+  {
+    "code": "7.3.4",
+    "name": "Other travel and transport",
+    "weeklySpend": 18.5,
+    "totalWeeklyMillion": 528.0,
+    "level": 2
+  },
+  {
+    "code": "8",
+    "name": "Communication\u00b3",
+    "weeklySpend": 22.2,
+    "totalWeeklyMillion": 633.0,
+    "level": 1
+  },
+  {
+    "code": "8.1",
+    "name": "Postal services",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 18.0,
+    "level": 1
+  },
+  {
+    "code": "8.2",
+    "name": "Telephone and telefax equipment",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 32.0,
+    "level": 1
+  },
+  {
+    "code": "8.2.2",
+    "name": "Mobile phone purchase",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 31.0,
+    "level": 2
+  },
+  {
+    "code": "8.3",
+    "name": "Telephone and telefax services",
+    "weeklySpend": 9.2,
+    "totalWeeklyMillion": 263.0,
+    "level": 1
+  },
+  {
+    "code": "8.3.1",
+    "name": "Telephone account (excluding combined payments)\u2074",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 9.0,
+    "level": 2
+  },
+  {
+    "code": "8.3.3",
+    "name": "Mobile phone account (excluding combined payments)\u2075",
+    "weeklySpend": 8.8,
+    "totalWeeklyMillion": 250.0,
+    "level": 2
+  },
+  {
+    "code": "8.3.4",
+    "name": "Mobile phone - other payments",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 4.0,
+    "level": 2
+  },
+  {
+    "code": "8.4",
+    "name": "Internet subscription fees (ex. combined packages)\u2076",
+    "weeklySpend": 1.9,
+    "totalWeeklyMillion": 55.0,
+    "level": 1
+  },
+  {
+    "code": "8.5",
+    "name": "Combined telecom services\u2077",
+    "weeklySpend": 9.3,
+    "totalWeeklyMillion": 265.0,
+    "level": 1
+  },
+  {
+    "code": "9",
+    "name": "Recreation & culture",
+    "weeklySpend": 72.8,
+    "totalWeeklyMillion": 2074.0,
+    "level": 1
+  },
+  {
+    "code": "9.1",
+    "name": "Audio-visual, photographic and information processing equipment",
+    "weeklySpend": 3.7,
+    "totalWeeklyMillion": 106.0,
+    "level": 1
+  },
+  {
+    "code": "9.1.1",
+    "name": "Audio equipment and accessories, CD players",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 19.0,
+    "level": 2
+  },
+  {
+    "code": "9.1.2",
+    "name": "TV, video and computers",
+    "weeklySpend": 2.8,
+    "totalWeeklyMillion": 79.0,
+    "level": 2
+  },
+  {
+    "code": "9.1.3",
+    "name": "Photographic, cine and optical equipment",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 7.0,
+    "level": 2
+  },
+  {
+    "code": "9.2",
+    "name": "Other major durables for recreation and culture",
+    "weeklySpend": 3.0,
+    "totalWeeklyMillion": 85.0,
+    "level": 1
+  },
+  {
+    "code": "9.2.4",
+    "name": "Musical instruments (purchase and hire)",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 7.0,
+    "level": 2
+  },
+  {
+    "code": "9.2.6",
+    "name": "Maintenance and repair of other major durables",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 20.0,
+    "level": 2
+  },
+  {
+    "code": "9.3",
+    "name": "Other recreational items and equipment, gardens and pets",
+    "weeklySpend": 15.0,
+    "totalWeeklyMillion": 426.0,
+    "level": 1
+  },
+  {
+    "code": "9.3.1",
+    "name": "Games, toys and hobbies",
+    "weeklySpend": 2.7,
+    "totalWeeklyMillion": 77.0,
+    "level": 2
+  },
+  {
+    "code": "9.3.2",
+    "name": "Computer software and games",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 21.0,
+    "level": 2
+  },
+  {
+    "code": "9.3.3",
+    "name": "Equipment for sport, camping and open-air recreation",
+    "weeklySpend": 1.3,
+    "totalWeeklyMillion": 38.0,
+    "level": 2
+  },
+  {
+    "code": "9.3.4",
+    "name": "Horticultural goods, garden equipment and plants etc.",
+    "weeklySpend": 2.9,
+    "totalWeeklyMillion": 83.0,
+    "level": 2
+  },
+  {
+    "code": "9.3.5",
+    "name": "Pets and pet food",
+    "weeklySpend": 7.3,
+    "totalWeeklyMillion": 208.0,
+    "level": 2
+  },
+  {
+    "code": "9.4",
+    "name": "Recreational and cultural services",
+    "weeklySpend": 17.9,
+    "totalWeeklyMillion": 510.0,
+    "level": 1
+  },
+  {
+    "code": "9.4.1",
+    "name": "Sports admissions, subscriptions, leisure class fees and equipment hire",
+    "weeklySpend": 6.5,
+    "totalWeeklyMillion": 184.0,
+    "level": 2
+  },
+  {
+    "code": "9.4.2",
+    "name": "Cinema, theatre and museums etc.",
+    "weeklySpend": 2.4,
+    "totalWeeklyMillion": 68.0,
+    "level": 2
+  },
+  {
+    "code": "9.4.3",
+    "name": "TV, video, satellite rental, cable subscriptions and TV licences",
+    "weeklySpend": 6.2,
+    "totalWeeklyMillion": 176.0,
+    "level": 2
+  },
+  {
+    "code": "9.4.4",
+    "name": "Miscellaneous entertainments",
+    "weeklySpend": 1.5,
+    "totalWeeklyMillion": 42.0,
+    "level": 2
+  },
+  {
+    "code": "9.4.6",
+    "name": "Gambling payments",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 35.0,
+    "level": 2
+  },
+  {
+    "code": "9.5",
+    "name": "Newspapers, books and stationery",
+    "weeklySpend": 3.9,
+    "totalWeeklyMillion": 111.0,
+    "level": 1
+  },
+  {
+    "code": "9.5.1",
+    "name": "Books",
+    "weeklySpend": 1.0,
+    "totalWeeklyMillion": 27.0,
+    "level": 2
+  },
+  {
+    "code": "9.5.2",
+    "name": "Stationery, diaries, address books, art materials",
+    "weeklySpend": 0.8,
+    "totalWeeklyMillion": 22.0,
+    "level": 2
+  },
+  {
+    "code": "9.5.3",
+    "name": "Cards, calendars, posters and other printed matter",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 27.0,
+    "level": 2
+  },
+  {
+    "code": "9.5.4",
+    "name": "Newspapers",
+    "weeklySpend": 0.8,
+    "totalWeeklyMillion": 23.0,
+    "level": 2
+  },
+  {
+    "code": "9.5.5",
+    "name": "Magazines and periodicals",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 12.0,
+    "level": 2
+  },
+  {
+    "code": "9.6",
+    "name": "Package holidays\u00b9\u00b9",
+    "weeklySpend": 29.4,
+    "totalWeeklyMillion": 836.0,
+    "level": 1
+  },
+  {
+    "code": "9.6.1",
+    "name": "Package holidays - UK",
+    "weeklySpend": 1.9,
+    "totalWeeklyMillion": 54.0,
+    "level": 2
+  },
+  {
+    "code": "9.6.2",
+    "name": "Package holidays - abroad",
+    "weeklySpend": 27.5,
+    "totalWeeklyMillion": 782.0,
+    "level": 2
+  },
+  {
+    "code": "10",
+    "name": "Education",
+    "weeklySpend": 5.1,
+    "totalWeeklyMillion": 144.0,
+    "level": 1
+  },
+  {
+    "code": "10.1",
+    "name": "Education fees",
+    "weeklySpend": 4.8,
+    "totalWeeklyMillion": 136.0,
+    "level": 1
+  },
+  {
+    "code": "10.2",
+    "name": "Payments for school trips, other ad-hoc expenditure",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 8.0,
+    "level": 1
+  },
+  {
+    "code": "11",
+    "name": "Restaurants & hotels",
+    "weeklySpend": 44.4,
+    "totalWeeklyMillion": 1265.0,
+    "level": 1
+  },
+  {
+    "code": "11.1",
+    "name": "Catering services",
+    "weeklySpend": 31.2,
+    "totalWeeklyMillion": 888.0,
+    "level": 1
+  },
+  {
+    "code": "11.1.1",
+    "name": "Restaurant and caf\u00e9 meals",
+    "weeklySpend": 15.7,
+    "totalWeeklyMillion": 446.0,
+    "level": 2
+  },
+  {
+    "code": "11.1.2",
+    "name": "Alcoholic drinks (away from home)",
+    "weeklySpend": 5.9,
+    "totalWeeklyMillion": 167.0,
+    "level": 2
+  },
+  {
+    "code": "11.1.3",
+    "name": "Take away meals eaten at home",
+    "weeklySpend": 4.5,
+    "totalWeeklyMillion": 129.0,
+    "level": 2
+  },
+  {
+    "code": "11.1.4",
+    "name": "Other take-away and snack food",
+    "weeklySpend": 3.8,
+    "totalWeeklyMillion": 110.0,
+    "level": 2
+  },
+  {
+    "code": "11.1.6",
+    "name": "Canteens",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "11.2",
+    "name": "Accommodation services",
+    "weeklySpend": 13.2,
+    "totalWeeklyMillion": 377.0,
+    "level": 1
+  },
+  {
+    "code": "11.2.1",
+    "name": "Holiday in the UK",
+    "weeklySpend": 7.1,
+    "totalWeeklyMillion": 201.0,
+    "level": 2
+  },
+  {
+    "code": "11.2.2",
+    "name": "Holiday abroad",
+    "weeklySpend": 6.0,
+    "totalWeeklyMillion": 170.0,
+    "level": 2
+  },
+  {
+    "code": "12",
+    "name": "Miscellaneous goods and services",
+    "weeklySpend": 45.6,
+    "totalWeeklyMillion": 1300.0,
+    "level": 1
+  },
+  {
+    "code": "12.1",
+    "name": "Personal care",
+    "weeklySpend": 12.2,
+    "totalWeeklyMillion": 346.0,
+    "level": 1
+  },
+  {
+    "code": "12.1.1",
+    "name": "Hairdressing, beauty treatment",
+    "weeklySpend": 3.5,
+    "totalWeeklyMillion": 98.0,
+    "level": 2
+  },
+  {
+    "code": "12.1.2",
+    "name": "Toilet paper",
+    "weeklySpend": 1.0,
+    "totalWeeklyMillion": 30.0,
+    "level": 2
+  },
+  {
+    "code": "12.1.3",
+    "name": "Toiletries and soap",
+    "weeklySpend": 2.4,
+    "totalWeeklyMillion": 70.0,
+    "level": 2
+  },
+  {
+    "code": "12.1.4",
+    "name": "Baby toiletries and accessories (disposable)",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 17.0,
+    "level": 2
+  },
+  {
+    "code": "12.1.5",
+    "name": "Hair products, cosmetics and electrical appliances for personal care",
+    "weeklySpend": 4.6,
+    "totalWeeklyMillion": 131.0,
+    "level": 2
+  },
+  {
+    "code": "12.2",
+    "name": "Personal effects",
+    "weeklySpend": 3.2,
+    "totalWeeklyMillion": 90.0,
+    "level": 1
+  },
+  {
+    "code": "12.2.1",
+    "name": "Jewellery, clocks and watches and other personal effects",
+    "weeklySpend": 2.0,
+    "totalWeeklyMillion": 57.0,
+    "level": 2
+  },
+  {
+    "code": "12.2.2",
+    "name": "Leather and travel goods (excluding baby items)",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 19.0,
+    "level": 2
+  },
+  {
+    "code": "12.2.3",
+    "name": "Sunglasses (non-prescription)",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 3.0,
+    "level": 2
+  },
+  {
+    "code": "12.2.4",
+    "name": "Baby equipment (excluding prams and pushchairs)",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 2.0,
+    "level": 2
+  },
+  {
+    "code": "12.3",
+    "name": "Social protection",
+    "weeklySpend": 2.7,
+    "totalWeeklyMillion": 78.0,
+    "level": 1
+  },
+  {
+    "code": "12.3.3",
+    "name": "Nursery, cr\u00e8che, playschools",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 34.0,
+    "level": 2
+  },
+  {
+    "code": "12.3.4",
+    "name": "Child care payments",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 20.0,
+    "level": 2
+  },
+  {
+    "code": "12.4",
+    "name": "Insurance",
+    "weeklySpend": 21.7,
+    "totalWeeklyMillion": 619.0,
+    "level": 1
+  },
+  {
+    "code": "12.4.1",
+    "name": "Household insurances",
+    "weeklySpend": 5.6,
+    "totalWeeklyMillion": 158.0,
+    "level": 2
+  },
+  {
+    "code": "12.4.2",
+    "name": "Medical insurance premiums\u00b9\u00b3",
+    "weeklySpend": 2.7,
+    "totalWeeklyMillion": 77.0,
+    "level": 2
+  },
+  {
+    "code": "12.4.3",
+    "name": "Vehicle insurance including boat insurance",
+    "weeklySpend": 12.6,
+    "totalWeeklyMillion": 359.0,
+    "level": 2
+  },
+  {
+    "code": "12.4.4",
+    "name": "Non-package holiday, other travel insurance\u00b9\u2074",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "12.5",
+    "name": "Other services",
+    "weeklySpend": 5.8,
+    "totalWeeklyMillion": 166.0,
+    "level": 1
+  },
+  {
+    "code": "12.5.1",
+    "name": "Moving house",
+    "weeklySpend": 2.8,
+    "totalWeeklyMillion": 79.0,
+    "level": 2
+  },
+  {
+    "code": "12.5.2",
+    "name": "Bank, building society, post office, credit card charges",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 17.0,
+    "level": 2
+  },
+  {
+    "code": "12.5.3",
+    "name": "Other services and professional fees",
+    "weeklySpend": 2.5,
+    "totalWeeklyMillion": 70.0,
+    "level": 2
+  },
+  {
+    "code": "1-12",
+    "name": "All expenditure groups",
+    "weeklySpend": 537.0,
+    "totalWeeklyMillion": 15295.0,
+    "level": 1
+  },
+  {
+    "code": "13",
+    "name": "Other expenditure items",
+    "weeklySpend": 86.3,
+    "totalWeeklyMillion": 2458.0,
+    "level": 1
+  },
+  {
+    "code": "13.1",
+    "name": "Housing: mortgage interest payments, council tax etc.",
+    "weeklySpend": 60.2,
+    "totalWeeklyMillion": 1713.0,
+    "level": 1
+  },
+  {
+    "code": "13.1.1",
+    "name": "Mortgage interest payments",
+    "weeklySpend": 26.6,
+    "totalWeeklyMillion": 757.0,
+    "level": 2
+  },
+  {
+    "code": "13.1.2",
+    "name": "Mortgage protection premiums",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 32.0,
+    "level": 2
+  },
+  {
+    "code": "13.1.3",
+    "name": "Council tax, domestic rates",
+    "weeklySpend": 30.3,
+    "totalWeeklyMillion": 863.0,
+    "level": 2
+  },
+  {
+    "code": "13.1.4",
+    "name": "Council tax, mortgage (second dwelling)",
+    "weeklySpend": 2.2,
+    "totalWeeklyMillion": 62.0,
+    "level": 2
+  },
+  {
+    "code": "13.2",
+    "name": "Licences, fines and transfers",
+    "weeklySpend": 4.4,
+    "totalWeeklyMillion": 125.0,
+    "level": 1
+  },
+  {
+    "code": "13.2.1",
+    "name": "Stamp duty, licences and fines (excluding motoring fines)",
+    "weeklySpend": 0.6,
+    "totalWeeklyMillion": 16.0,
+    "level": 2
+  },
+  {
+    "code": "13.2.3",
+    "name": "Motor vehicle road taxation payments less refunds",
+    "weeklySpend": 3.7,
+    "totalWeeklyMillion": 107.0,
+    "level": 2
+  },
+  {
+    "code": "13.3",
+    "name": "Holiday spending",
+    "weeklySpend": 7.7,
+    "totalWeeklyMillion": 219.0,
+    "level": 1
+  },
+  {
+    "code": "13.3.1",
+    "name": "Money spent abroad",
+    "weeklySpend": 7.6,
+    "totalWeeklyMillion": 218.0,
+    "level": 2
+  },
+  {
+    "code": "13.4",
+    "name": "Money transfers and credit",
+    "weeklySpend": 14.0,
+    "totalWeeklyMillion": 400.0,
+    "level": 1
+  },
+  {
+    "code": "13.4.1",
+    "name": "Money, cash gifts given to children",
+    "weeklySpend": 0.2,
+    "totalWeeklyMillion": 5.0,
+    "level": 2
+  },
+  {
+    "code": "13.4.2",
+    "name": "Cash gifts and donations",
+    "weeklySpend": 12.7,
+    "totalWeeklyMillion": 362.0,
+    "level": 2
+  },
+  {
+    "code": "13.4.3",
+    "name": "Club instalment payments (child) and interest on credit cards",
+    "weeklySpend": 1.2,
+    "totalWeeklyMillion": 34.0,
+    "level": 2
+  },
+  {
+    "code": "14.1",
+    "name": "Life assurance, contributions to pension funds",
+    "weeklySpend": 42.0,
+    "totalWeeklyMillion": 1196.0,
+    "level": 1
+  },
+  {
+    "code": "14.1.1",
+    "name": "Life assurance premiums",
+    "weeklySpend": 3.2,
+    "totalWeeklyMillion": 90.0,
+    "level": 2
+  },
+  {
+    "code": "14.1.2",
+    "name": "Contributions to pension and superannuation funds etc.",
+    "weeklySpend": 33.5,
+    "totalWeeklyMillion": 955.0,
+    "level": 2
+  },
+  {
+    "code": "14.1.3",
+    "name": "Personal pensions",
+    "weeklySpend": 5.3,
+    "totalWeeklyMillion": 151.0,
+    "level": 2
+  },
+  {
+    "code": "14.2",
+    "name": "Other insurance including friendly societies",
+    "weeklySpend": 2.6,
+    "totalWeeklyMillion": 74.0,
+    "level": 1
+  },
+  {
+    "code": "14.3",
+    "name": "Income tax, payments less refunds",
+    "weeklySpend": 134.9,
+    "totalWeeklyMillion": 3841.0,
+    "level": 1
+  },
+  {
+    "code": "14.3.1",
+    "name": "Income tax paid by employees under PAYE",
+    "weeklySpend": 110.1,
+    "totalWeeklyMillion": 3136.0,
+    "level": 2
+  },
+  {
+    "code": "14.3.2",
+    "name": "Income tax paid direct e.g. by retired or unoccupied persons",
+    "weeklySpend": 3.8,
+    "totalWeeklyMillion": 108.0,
+    "level": 2
+  },
+  {
+    "code": "14.3.3",
+    "name": "Income tax paid direct by self-employed",
+    "weeklySpend": 5.7,
+    "totalWeeklyMillion": 162.0,
+    "level": 2
+  },
+  {
+    "code": "14.3.5",
+    "name": "Income tax on bonus earnings",
+    "weeklySpend": 3.7,
+    "totalWeeklyMillion": 105.0,
+    "level": 2
+  },
+  {
+    "code": "14.3.7",
+    "name": "Income tax refunds other than PAYE",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 26.0,
+    "level": 2
+  },
+  {
+    "code": "14.4",
+    "name": "National insurance contribution",
+    "weeklySpend": 42.1,
+    "totalWeeklyMillion": 1199.0,
+    "level": 1
+  },
+  {
+    "code": "14.4.1",
+    "name": "NI contributions paid by employees",
+    "weeklySpend": 41.7,
+    "totalWeeklyMillion": 1187.0,
+    "level": 2
+  },
+  {
+    "code": "14.4.2",
+    "name": "NI contributions paid by non-employees",
+    "weeklySpend": 0.4,
+    "totalWeeklyMillion": 12.0,
+    "level": 2
+  },
+  {
+    "code": "14.5",
+    "name": "Purchase or alteration of dwellings (contracted out), mortgages",
+    "weeklySpend": 71.9,
+    "totalWeeklyMillion": 2049.0,
+    "level": 1
+  },
+  {
+    "code": "14.5.2",
+    "name": "Capital repayment of mortgage",
+    "weeklySpend": 34.5,
+    "totalWeeklyMillion": 984.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.3",
+    "name": "Central heating installation",
+    "weeklySpend": 1.7,
+    "totalWeeklyMillion": 50.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.4",
+    "name": "DIY improvements: Double glazing, kitchen units, sheds etc.",
+    "weeklySpend": 1.0,
+    "totalWeeklyMillion": 27.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.5",
+    "name": "Home improvements - contracted out",
+    "weeklySpend": 28.6,
+    "totalWeeklyMillion": 814.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.6",
+    "name": "Bathroom fittings",
+    "weeklySpend": 0.7,
+    "totalWeeklyMillion": 21.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.7",
+    "name": "Purchase of materials for Capital Improvements",
+    "weeklySpend": 1.1,
+    "totalWeeklyMillion": 31.0,
+    "level": 2
+  },
+  {
+    "code": "14.5.8",
+    "name": "Purchase of second dwelling",
+    "weeklySpend": 1.9,
+    "totalWeeklyMillion": 55.0,
+    "level": 2
+  },
+  {
+    "code": "14.6",
+    "name": "Savings and investments",
+    "weeklySpend": 6.2,
+    "totalWeeklyMillion": 177.0,
+    "level": 1
+  },
+  {
+    "code": "14.6.1",
+    "name": "Savings, investments (excluding AVCs)",
+    "weeklySpend": 5.3,
+    "totalWeeklyMillion": 150.0,
+    "level": 2
+  },
+  {
+    "code": "14.6.2",
+    "name": "Additional Voluntary Contributions",
+    "weeklySpend": 0.9,
+    "totalWeeklyMillion": 25.0,
+    "level": 2
+  },
+  {
+    "code": "14.6.3",
+    "name": "Food stamps, other food related expenditure",
+    "weeklySpend": 0.1,
+    "totalWeeklyMillion": 3.0,
+    "level": 2
+  },
+  {
+    "code": "14.7",
+    "name": "Pay off loan to clear other debt",
+    "weeklySpend": 2.5,
+    "totalWeeklyMillion": 70.0,
+    "level": 1
+  },
+  {
+    "code": "14.8",
+    "name": "Windfall receipts from gambling etc.\u00b9\u2075",
+    "weeklySpend": 0.3,
+    "totalWeeklyMillion": 8.0,
+    "level": 1
+  }
+]

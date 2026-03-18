@@ -7,6 +7,7 @@ import SimulationInputPanel from "@/components/SimulationInputPanel";
 import ResultCards from "@/components/ResultCards";
 import TornadoChart from "@/components/TornadoChart";
 import HistogramChart from "@/components/HistogramChart";
+import SenseCheck from "@/components/SenseCheck";
 import {
   Currency,
   RangeInputs,
@@ -141,6 +142,12 @@ export default function Home() {
             currency={currency}
           />
         )}
+
+        {/* Sense Check */}
+        <SenseCheck
+          bottomUpEstimate={p50.annualSpendingPower}
+          currency={currency}
+        />
 
         {/* Share button */}
         <div className="flex justify-center pb-6">

@@ -1,0 +1,94 @@
+{
+  "totalUkHouseholds": 28480000,
+  "ageGroups": [
+    {
+      "id": "under30",
+      "label": "Under 30",
+      "pctOfHouseholds": 8
+    },
+    {
+      "id": "30to49",
+      "label": "30\u201349",
+      "pctOfHouseholds": 27
+    },
+    {
+      "id": "50to64",
+      "label": "50\u201364",
+      "pctOfHouseholds": 29
+    },
+    {
+      "id": "65to74",
+      "label": "65\u201374",
+      "pctOfHouseholds": 14
+    },
+    {
+      "id": "75plus",
+      "label": "75+",
+      "pctOfHouseholds": 14
+    }
+  ],
+  "incomeGroups": [
+    {
+      "id": "q1",
+      "label": "Lowest 20%",
+      "pctOfHouseholds": 20
+    },
+    {
+      "id": "q2",
+      "label": "Second quintile",
+      "pctOfHouseholds": 20
+    },
+    {
+      "id": "q3",
+      "label": "Third quintile",
+      "pctOfHouseholds": 20
+    },
+    {
+      "id": "q4",
+      "label": "Fourth quintile",
+      "pctOfHouseholds": 20
+    },
+    {
+      "id": "q5",
+      "label": "Highest 20%",
+      "pctOfHouseholds": 20
+    }
+  ],
+  "compositionGroups": [
+    {
+      "id": "single_retired",
+      "label": "Single adult, retired",
+      "pctOfHouseholds": 12
+    },
+    {
+      "id": "single_nonretired",
+      "label": "Single adult, non-retired",
+      "pctOfHouseholds": 17
+    },
+    {
+      "id": "single_parent",
+      "label": "Single parent with children",
+      "pctOfHouseholds": 4
+    },
+    {
+      "id": "couple_retired",
+      "label": "Couple, retired",
+      "pctOfHouseholds": 12
+    },
+    {
+      "id": "couple_nochildren",
+      "label": "Couple, no children",
+      "pctOfHouseholds": 23
+    },
+    {
+      "id": "couple_children",
+      "label": "Couple with children",
+      "pctOfHouseholds": 19
+    },
+    {
+      "id": "other",
+      "label": "Other multi-person",
+      "pctOfHouseholds": 13
+    }
+  ]
+}

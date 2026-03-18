@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Derby",
+    "region": "East Midlands",
+    "households": 107000
+  },
+  {
+    "name": "Derbyshire",
+    "region": "East Midlands",
+    "households": 346000
+  },
+  {
+    "name": "Leicester",
+    "region": "East Midlands",
+    "households": 138000
+  },
+  {
+    "name": "Leicestershire",
+    "region": "East Midlands",
+    "households": 290000
+  },
+  {
+    "name": "Lincolnshire",
+    "region": "East Midlands",
+    "households": 335000
+  },
+  {
+    "name": "Northamptonshire",
+    "region": "East Midlands",
+    "households": 322000
+  },
+  {
+    "name": "Nottingham",
+    "region": "East Midlands",
+    "households": 138000
+  },
+  {
+    "name": "Nottinghamshire",
+    "region": "East Midlands",
+    "households": 355000
+  },
+  {
+    "name": "Rutland",
+    "region": "East Midlands",
+    "households": 17000
+  },
+  {
+    "name": "Bedford",
+    "region": "East of England",
+    "households": 72000
+  },
+  {
+    "name": "Cambridgeshire",
+    "region": "East of England",
+    "households": 275000
+  },
+  {
+    "name": "Central Bedfordshire",
+    "region": "East of England",
+    "households": 119000
+  },
+  {
+    "name": "Essex",
+    "region": "East of England",
+    "households": 625000
+  },
+  {
+    "name": "Hertfordshire",
+    "region": "East of England",
+    "households": 486000
+  },
+  {
+    "name": "Luton",
+    "region": "East of England",
+    "households": 82000
+  },
+  {
+    "name": "Norfolk",
+    "region": "East of England",
+    "households": 402000
+  },
+  {
+    "name": "Peterborough",
+    "region": "East of England",
+    "households": 83000
+  },
+  {
+    "name": "Southend-on-Sea",
+    "region": "East of England",
+    "households": 78000
+  },
+  {
+    "name": "Suffolk",
+    "region": "East of England",
+    "households": 330000
+  },
+  {
+    "name": "Thurrock",
+    "region": "East of England",
+    "households": 68000
+  },
+  {
+    "name": "Barking and Dagenham",
+    "region": "London",
+    "households": 77000
+  },
+  {
+    "name": "Barnet",
+    "region": "London",
+    "households": 147000
+  },
+  {
+    "name": "Bexley",
+    "region": "London",
+    "households": 99000
+  },
+  {
+    "name": "Brent",
+    "region": "London",
+    "households": 117000
+  },
+  {
+    "name": "Bromley",
+    "region": "London",
+    "households": 137000
+  },
+  {
+    "name": "Camden",
+    "region": "London",
+    "households": 107000
+  },
+  {
+    "name": "City of London",
+    "region": "London",
+    "households": 5000
+  },
+  {
+    "name": "Croydon",
+    "region": "London",
+    "households": 154000
+  },
+  {
+    "name": "Ealing",
+    "region": "London",
+    "households": 130000
+  },
+  {
+    "name": "Enfield",
+    "region": "London",
+    "households": 125000
+  },
+  {
+    "name": "Greenwich",
+    "region": "London",
+    "households": 114000
+  },
+  {
+    "name": "Hackney",
+    "region": "London",
+    "households": 112000
+  },
+  {
+    "name": "Hammersmith and Fulham",
+    "region": "London",
+    "households": 84000
+  },
+  {
+    "name": "Haringey",
+    "region": "London",
+    "households": 108000
+  },
+  {
+    "name": "Harrow",
+    "region": "London",
+    "households": 90000
+  },
+  {
+    "name": "Havering",
+    "region": "London",
+    "households": 106000
+  },
+  {
+    "name": "Hillingdon",
+    "region": "London",
+    "households": 111000
+  },
+  {
+    "name": "Hounslow",
+    "region": "London",
+    "households": 103000
+  },
+  {
+    "name": "Islington",
+    "region": "London",
+    "households": 104000
+  },
+  {
+    "name": "Kensington and Chelsea",
+    "region": "London",
+    "households": 78000
+  },
+  {
+    "name": "Kingston upon Thames",
+    "region": "London",
+    "households": 68000
+  },
+  {
+    "name": "Lambeth",
+    "region": "London",
+    "households": 139000
+  },
+  {
+    "name": "Lewisham",
+    "region": "London",
+    "households": 122000
+  },
+  {
+    "name": "Merton",
+    "region": "London",
+    "households": 81000
+  },
+  {
+    "name": "Newham",
+    "region": "London",
+    "households": 117000
+  },
+  {
+    "name": "Redbridge",
+    "region": "London",
+    "households": 106000
+  },
+  {
+    "name": "Richmond upon Thames",
+    "region": "London",
+    "households": 81000
+  },
+  {
+    "name": "Southwark",
+    "region": "London",
+    "households": 128000
+  },
+  {
+    "name": "Sutton",
+    "region": "London",
+    "households": 81000
+  },
+  {
+    "name": "Tower Hamlets",
+    "region": "London",
+    "households": 131000
+  },
+  {
+    "name": "Waltham Forest",
+    "region": "London",
+    "households": 104000
+  },
+  {
+    "name": "Wandsworth",
+    "region": "London",
+    "households": 141000
+  },
+  {
+    "name": "Westminster",
+    "region": "London",
+    "households": 113000
+  },
+  {
+    "name": "County Durham",
+    "region": "North East",
+    "households": 243000
+  },
+  {
+    "name": "Darlington",
+    "region": "North East",
+    "households": 48000
+  },
+  {
+    "name": "Gateshead",
+    "region": "North East",
+    "households": 93000
+  },
+  {
+    "name": "Hartlepool",
+    "region": "North East",
+    "households": 43000
+  },
+  {
+    "name": "Middlesbrough",
+    "region": "North East",
+    "households": 60000
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "region": "North East",
+    "households": 133000
+  },
+  {
+    "name": "North Tyneside",
+    "region": "North East",
+    "households": 93000
+  },
+  {
+    "name": "Northumberland",
+    "region": "North East",
+    "households": 148000
+  },
+  {
+    "name": "Redcar and Cleveland",
+    "region": "North East",
+    "households": 62000
+  },
+  {
+    "name": "South Tyneside",
+    "region": "North East",
+    "households": 69000
+  },
+  {
+    "name": "Stockton-on-Tees",
+    "region": "North East",
+    "households": 85000
+  },
+  {
+    "name": "Sunderland",
+    "region": "North East",
+    "households": 123000
+  },
+  {
+    "name": "Blackburn with Darwen",
+    "region": "North West",
+    "households": 62000
+  },
+  {
+    "name": "Blackpool",
+    "region": "North West",
+    "households": 67000
+  },
+  {
+    "name": "Bolton",
+    "region": "North West",
+    "households": 119000
+  },
+  {
+    "name": "Burnley",
+    "region": "North West",
+    "households": 40000
+  },
+  {
+    "name": "Bury",
+    "region": "North West",
+    "households": 81000
+  },
+  {
+    "name": "Cheshire East",
+    "region": "North West",
+    "households": 170000
+  },
+  {
+    "name": "Cheshire West and Chester",
+    "region": "North West",
+    "households": 151000
+  },
+  {
+    "name": "Halton",
+    "region": "North West",
+    "households": 56000
+  },
+  {
+    "name": "Knowsley",
+    "region": "North West",
+    "households": 66000
+  },
+  {
+    "name": "Lancaster",
+    "region": "North West",
+    "households": 63000
+  },
+  {
+    "name": "Liverpool",
+    "region": "North West",
+    "households": 224000
+  },
+  {
+    "name": "Manchester",
+    "region": "North West",
+    "households": 230000
+  },
+  {
+    "name": "Oldham",
+    "region": "North West",
+    "households": 95000
+  },
+  {
+    "name": "Preston",
+    "region": "North West",
+    "households": 62000
+  },
+  {
+    "name": "Rochdale",
+    "region": "North West",
+    "households": 91000
+  },
+  {
+    "name": "Salford",
+    "region": "North West",
+    "households": 117000
+  },
+  {
+    "name": "Sefton",
+    "region": "North West",
+    "households": 121000
+  },
+  {
+    "name": "St. Helens",
+    "region": "North West",
+    "households": 79000
+  },
+  {
+    "name": "Stockport",
+    "region": "North West",
+    "households": 127000
+  },
+  {
+    "name": "Tameside",
+    "region": "North West",
+    "households": 96000
+  },
+  {
+    "name": "Trafford",
+    "region": "North West",
+    "households": 96000
+  },
+  {
+    "name": "Warrington",
+    "region": "North West",
+    "households": 90000
+  },
+  {
+    "name": "Wigan",
+    "region": "North West",
+    "households": 140000
+  },
+  {
+    "name": "Wirral",
+    "region": "North West",
+    "households": 146000
+  },
+  {
+    "name": "Antrim and Newtownabbey",
+    "region": "Northern Ireland",
+    "households": 59000
+  },
+  {
+    "name": "Armagh City, Banbridge and Craigavon",
+    "region": "Northern Ireland",
+    "households": 82000
+  },
+  {
+    "name": "Belfast",
+    "region": "Northern Ireland",
+    "households": 142000
+  },
+  {
+    "name": "Derry City and Strabane",
+    "region": "Northern Ireland",
+    "households": 60000
+  },
+  {
+    "name": "Lisburn and Castlereagh",
+    "region": "Northern Ireland",
+    "households": 59000
+  },
+  {
+    "name": "Mid Ulster",
+    "region": "Northern Ireland",
+    "households": 55000
+  },
+  {
+    "name": "Newry, Mourne and Down",
+    "region": "Northern Ireland",
+    "households": 66000
+  },
+  {
+    "name": "Aberdeen City",
+    "region": "Scotland",
+    "households": 109000
+  },
+  {
+    "name": "Aberdeenshire",
+    "region": "Scotland",
+    "households": 112000
+  },
+  {
+    "name": "Angus",
+    "region": "Scotland",
+    "households": 53000
+  },
+  {
+    "name": "City of Edinburgh",
+    "region": "Scotland",
+    "households": 240000
+  },
+  {
+    "name": "Dumfries and Galloway",
+    "region": "Scotland",
+    "households": 68000
+  },
+  {
+    "name": "Dundee City",
+    "region": "Scotland",
+    "households": 70000
+  },
+  {
+    "name": "East Lothian",
+    "region": "Scotland",
+    "households": 47000
+  },
+  {
+    "name": "Falkirk",
+    "region": "Scotland",
+    "households": 70000
+  },
+  {
+    "name": "Fife",
+    "region": "Scotland",
+    "households": 169000
+  },
+  {
+    "name": "Glasgow City",
+    "region": "Scotland",
+    "households": 302000
+  },
+  {
+    "name": "Highland",
+    "region": "Scotland",
+    "households": 107000
+  },
+  {
+    "name": "Moray",
+    "region": "Scotland",
+    "households": 42000
+  },
+  {
+    "name": "North Lanarkshire",
+    "region": "Scotland",
+    "households": 147000
+  },
+  {
+    "name": "Perth and Kinross",
+    "region": "Scotland",
+    "households": 68000
+  },
+  {
+    "name": "Renfrewshire",
+    "region": "Scotland",
+    "households": 80000
+  },
+  {
+    "name": "Scottish Borders",
+    "region": "Scotland",
+    "households": 53000
+  },
+  {
+    "name": "South Lanarkshire",
+    "region": "Scotland",
+    "households": 144000
+  },
+  {
+    "name": "Stirling",
+    "region": "Scotland",
+    "households": 40000
+  },
+  {
+    "name": "West Lothian",
+    "region": "Scotland",
+    "households": 78000
+  },
+  {
+    "name": "Bracknell Forest",
+    "region": "South East",
+    "households": 50000
+  },
+  {
+    "name": "Brighton and Hove",
+    "region": "South East",
+    "households": 127000
+  },
+  {
+    "name": "Buckinghamshire",
+    "region": "South East",
+    "households": 222000
+  },
+  {
+    "name": "East Sussex",
+    "region": "South East",
+    "households": 247000
+  },
+  {
+    "name": "Hampshire",
+    "region": "South East",
+    "households": 573000
+  },
+  {
+    "name": "Isle of Wight",
+    "region": "South East",
+    "households": 67000
+  },
+  {
+    "name": "Kent",
+    "region": "South East",
+    "households": 651000
+  },
+  {
+    "name": "Medway",
+    "region": "South East",
+    "households": 115000
+  },
+  {
+    "name": "Milton Keynes",
+    "region": "South East",
+    "households": 110000
+  },
+  {
+    "name": "Oxfordshire",
+    "region": "South East",
+    "households": 284000
+  },
+  {
+    "name": "Portsmouth",
+    "region": "South East",
+    "households": 90000
+  },
+  {
+    "name": "Reading",
+    "region": "South East",
+    "households": 69000
+  },
+  {
+    "name": "Slough",
+    "region": "South East",
+    "households": 53000
+  },
+  {
+    "name": "Southampton",
+    "region": "South East",
+    "households": 107000
+  },
+  {
+    "name": "Surrey",
+    "region": "South East",
+    "households": 484000
+  },
+  {
+    "name": "West Berkshire",
+    "region": "South East",
+    "households": 66000
+  },
+  {
+    "name": "West Sussex",
+    "region": "South East",
+    "households": 363000
+  },
+  {
+    "name": "Windsor and Maidenhead",
+    "region": "South East",
+    "households": 62000
+  },
+  {
+    "name": "Wokingham",
+    "region": "South East",
+    "households": 66000
+  },
+  {
+    "name": "Bath and North East Somerset",
+    "region": "South West",
+    "households": 80000
+  },
+  {
+    "name": "Bournemouth, Christchurch and Poole",
+    "region": "South West",
+    "households": 177000
+  },
+  {
+    "name": "Bristol",
+    "region": "South West",
+    "households": 199000
+  },
+  {
+    "name": "Cornwall",
+    "region": "South West",
+    "households": 253000
+  },
+  {
+    "name": "Devon",
+    "region": "South West",
+    "households": 365000
+  },
+  {
+    "name": "Dorset",
+    "region": "South West",
+    "households": 170000
+  },
+  {
+    "name": "Gloucestershire",
+    "region": "South West",
+    "households": 276000
+  },
+  {
+    "name": "North Somerset",
+    "region": "South West",
+    "households": 94000
+  },
+  {
+    "name": "Plymouth",
+    "region": "South West",
+    "households": 116000
+  },
+  {
+    "name": "Somerset",
+    "region": "South West",
+    "households": 250000
+  },
+  {
+    "name": "South Gloucestershire",
+    "region": "South West",
+    "households": 118000
+  },
+  {
+    "name": "Swindon",
+    "region": "South West",
+    "households": 93000
+  },
+  {
+    "name": "Torbay",
+    "region": "South West",
+    "households": 62000
+  },
+  {
+    "name": "Wiltshire",
+    "region": "South West",
+    "households": 209000
+  },
+  {
+    "name": "Bridgend",
+    "region": "Wales",
+    "households": 62000
+  },
+  {
+    "name": "Caerphilly",
+    "region": "Wales",
+    "households": 79000
+  },
+  {
+    "name": "Cardiff",
+    "region": "Wales",
+    "households": 150000
+  },
+  {
+    "name": "Carmarthenshire",
+    "region": "Wales",
+    "households": 82000
+  },
+  {
+    "name": "Conwy",
+    "region": "Wales",
+    "households": 53000
+  },
+  {
+    "name": "Flintshire",
+    "region": "Wales",
+    "households": 67000
+  },
+  {
+    "name": "Gwynedd",
+    "region": "Wales",
+    "households": 55000
+  },
+  {
+    "name": "Neath Port Talbot",
+    "region": "Wales",
+    "households": 62000
+  },
+  {
+    "name": "Newport",
+    "region": "Wales",
+    "households": 66000
+  },
+  {
+    "name": "Pembrokeshire",
+    "region": "Wales",
+    "households": 55000
+  },
+  {
+    "name": "Powys",
+    "region": "Wales",
+    "households": 60000
+  },
+  {
+    "name": "Rhondda Cynon Taf",
+    "region": "Wales",
+    "households": 104000
+  },
+  {
+    "name": "Swansea",
+    "region": "Wales",
+    "households": 106000
+  },
+  {
+    "name": "Vale of Glamorgan",
+    "region": "Wales",
+    "households": 56000
+  },
+  {
+    "name": "Wrexham",
+    "region": "Wales",
+    "households": 59000
+  },
+  {
+    "name": "Birmingham",
+    "region": "West Midlands",
+    "households": 430000
+  },
+  {
+    "name": "Coventry",
+    "region": "West Midlands",
+    "households": 144000
+  },
+  {
+    "name": "Dudley",
+    "region": "West Midlands",
+    "households": 133000
+  },
+  {
+    "name": "Herefordshire",
+    "region": "West Midlands",
+    "households": 82000
+  },
+  {
+    "name": "Sandwell",
+    "region": "West Midlands",
+    "households": 130000
+  },
+  {
+    "name": "Shropshire",
+    "region": "West Midlands",
+    "households": 140000
+  },
+  {
+    "name": "Solihull",
+    "region": "West Midlands",
+    "households": 89000
+  },
+  {
+    "name": "Staffordshire",
+    "region": "West Midlands",
+    "households": 370000
+  },
+  {
+    "name": "Stoke-on-Trent",
+    "region": "West Midlands",
+    "households": 112000
+  },
+  {
+    "name": "Telford and Wrekin",
+    "region": "West Midlands",
+    "households": 76000
+  },
+  {
+    "name": "Walsall",
+    "region": "West Midlands",
+    "households": 113000
+  },
+  {
+    "name": "Warwickshire",
+    "region": "West Midlands",
+    "households": 252000
+  },
+  {
+    "name": "Wolverhampton",
+    "region": "West Midlands",
+    "households": 110000
+  },
+  {
+    "name": "Worcestershire",
+    "region": "West Midlands",
+    "households": 258000
+  },
+  {
+    "name": "Barnsley",
+    "region": "Yorkshire and The Humber",
+    "households": 107000
+  },
+  {
+    "name": "Bradford",
+    "region": "Yorkshire and The Humber",
+    "households": 205000
+  },
+  {
+    "name": "Calderdale",
+    "region": "Yorkshire and The Humber",
+    "households": 90000
+  },
+  {
+    "name": "Doncaster",
+    "region": "Yorkshire and The Humber",
+    "households": 132000
+  },
+  {
+    "name": "East Riding of Yorkshire",
+    "region": "Yorkshire and The Humber",
+    "households": 150000
+  },
+  {
+    "name": "Kingston upon Hull",
+    "region": "Yorkshire and The Humber",
+    "households": 119000
+  },
+  {
+    "name": "Kirklees",
+    "region": "Yorkshire and The Humber",
+    "households": 180000
+  },
+  {
+    "name": "Leeds",
+    "region": "Yorkshire and The Humber",
+    "households": 345000
+  },
+  {
+    "name": "North East Lincolnshire",
+    "region": "Yorkshire and The Humber",
+    "households": 72000
+  },
+  {
+    "name": "North Lincolnshire",
+    "region": "Yorkshire and The Humber",
+    "households": 74000
+  },
+  {
+    "name": "North Yorkshire",
+    "region": "Yorkshire and The Humber",
+    "households": 270000
+  },
+  {
+    "name": "Rotherham",
+    "region": "Yorkshire and The Humber",
+    "households": 113000
+  },
+  {
+    "name": "Sheffield",
+    "region": "Yorkshire and The Humber",
+    "households": 243000
+  },
+  {
+    "name": "Wakefield",
+    "region": "Yorkshire and The Humber",
+    "households": 149000
+  },
+  {
+    "name": "York",
+    "region": "Yorkshire and The Humber",
+    "households": 90000
+  }
+]
