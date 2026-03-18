@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(/c/Users/jackm/AppData/Local/Microsoft/WindowsApps/python --version)",
+      "Bash(/c/Users/jackm/AppData/Local/Microsoft/WindowsApps/python -m pip install openpyxl 2>&1 | tail -5)",
+      "Bash(/c/Users/jackm/AppData/Local/Microsoft/WindowsApps/python -c \"\nimport openpyxl\nwb = openpyxl.load_workbook\\('C:/Users/jackm/Projects/Spending-Power-Tool/spending power tool.xlsx', data_only=True\\)\nprint\\('Sheet names:', wb.sheetnames\\)\nfor sheet_name in wb.sheetnames:\n    ws = wb[sheet_name]\n    print\\(f'\\\\n=== Sheet: {sheet_name} ==='\\)\n    print\\(f'Dimensions: {ws.dimensions}'\\)\n    print\\(f'Max row: {ws.max_row}, Max col: {ws.max_column}'\\)\n    print\\(\\)\n    for row in ws.iter_rows\\(min_row=1, max_row=ws.max_row, max_col=ws.max_column, values_only=False\\):\n        row_data = []\n        for cell in row:\n            if cell.value is not None:\n                row_data.append\\(f'{cell.coordinate}={cell.value}'\\)\n        if row_data:\n            print\\(' | '.join\\(row_data\\)\\)\n\")",
+      "Bash(cd:*)",
+      "Bash(/c/Users/jackm/AppData/Local/Microsoft/WindowsApps/python -m pip install Pillow 2>&1 | tail -3)",
+      "Bash(/c/Users/jackm/AppData/Local/Microsoft/WindowsApps/python -c \"\nfrom PIL import Image, ImageDraw, ImageFont\nimport os\n\nbase = 'C:/Users/jackm/Projects/Spending-Power-Tool/public'\n\nfor size in [192, 512]:\n    img = Image.new\\('RGB', \\(size, size\\), '#2563eb'\\)\n    draw = ImageDraw.Draw\\(img\\)\n    font_size = size // 3\n    try:\n        font = ImageFont.truetype\\('arial.ttf', font_size\\)\n    except:\n        font = ImageFont.load_default\\(\\)\n    text = 'SP'\n    bbox = draw.textbbox\\(\\(0, 0\\), text, font=font\\)\n    tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]\n    x = \\(size - tw\\) / 2 - bbox[0]\n    y = \\(size - th\\) / 2 - bbox[1]\n    draw.text\\(\\(x, y\\), text, fill='white', font=font\\)\n    img.save\\(os.path.join\\(base, f'icon-{size}.png'\\)\\)\n    print\\(f'Created icon-{size}.png'\\)\n\")"
+    ]
+  }
+}
