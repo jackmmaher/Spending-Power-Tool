@@ -64,7 +64,8 @@ export interface TornadoItem {
 }
 
 export function runRangeAnalysis(inputs: RangeInputs, iterations = 10000): RangeResults {
-  const samples: number[] = [];
+  const allResults: SpendingOutputs[] = [];
+  const spendingSamples: number[] = [];
 
   for (let i = 0; i < iterations; i++) {
     const result = calculate({
@@ -73,19 +74,29 @@ export function runRangeAnalysis(inputs: RangeInputs, iterations = 10000): Range
       frequency: sampleTriangular(inputs.frequency),
       buyers: sampleTriangular(inputs.buyers),
     });
-    samples.push(result.annualSpendingPower);
+    allResults.push(result);
+    spendingSamples.push(result.annualSpendingPower);
   }
 
-  samples.sort((a, b) => a - b);
+  spendingSamples.sort((a, b) => a - b);
 
   const percentile = (arr: number[], p: number) => {
     const idx = Math.floor(arr.length * p);
     return arr[Math.min(idx, arr.length - 1)];
   };
 
-  const p10Val = percentile(samples, 0.1);
-  const p50Val = percentile(samples, 0.5);
-  const p90Val = percentile(samples, 0.9);
+  // Sort each output independently to get proper percentiles
+  const sortedNetAov = allResults.map((r) => r.netAov).sort((a, b) => a - b);
+  const sortedTransactions = allResults.map((r) => r.transactions).sort((a, b) => a - b);
+  const sortedSpending = spendingSamples;
+  const sortedSpendPerBuyer = allResults.map((r) => r.spendPerBuyer).sort((a, b) => a - b);
+
+  const makeOutputs = (p: number): SpendingOutputs => ({
+    netAov: percentile(sortedNetAov, p),
+    transactions: percentile(sortedTransactions, p),
+    annualSpendingPower: percentile(sortedSpending, p),
+    spendPerBuyer: percentile(sortedSpendPerBuyer, p),
+  });
 
   const baseInputs: SpendingInputs = {
     aov: inputs.aov.best,
@@ -124,26 +135,11 @@ export function runRangeAnalysis(inputs: RangeInputs, iterations = 10000): Range
   );
 
   return {
-    p10: calculateFromSpendingPower(p10Val, baseInputs),
-    p50: calculateFromSpendingPower(p50Val, baseInputs),
-    p90: calculateFromSpendingPower(p90Val, baseInputs),
-    samples,
+    p10: makeOutputs(0.1),
+    p50: makeOutputs(0.5),
+    p90: makeOutputs(0.9),
+    samples: spendingSamples,
     tornado,
-  };
-}
-
-function calculateFromSpendingPower(
-  spendingPower: number,
-  baseInputs: SpendingInputs
-): SpendingOutputs {
-  const netAov = baseInputs.aov * (1 - baseInputs.returnRate);
-  const transactions = baseInputs.frequency * baseInputs.buyers;
-  const ratio = transactions > 0 && netAov > 0 ? spendingPower / (transactions * netAov) : 1;
-  return {
-    netAov: netAov * Math.sqrt(ratio),
-    transactions: transactions * Math.sqrt(ratio),
-    annualSpendingPower: spendingPower,
-    spendPerBuyer: baseInputs.buyers > 0 ? spendingPower / baseInputs.buyers : 0,
   };
 }
 
@@ -210,7 +206,8 @@ export function runSimulation(
   inputs: SimulationInputs,
   iterations = 10000
 ): SimulationResults {
-  const samples: number[] = [];
+  const allResults: SpendingOutputs[] = [];
+  const spendingSamples: number[] = [];
 
   for (let i = 0; i < iterations; i++) {
     const aov = Math.max(0, sampleDistribution(inputs.aov));
@@ -219,37 +216,39 @@ export function runSimulation(
     const buyers = Math.max(0, Math.round(sampleDistribution(inputs.buyers)));
 
     const result = calculate({ aov, returnRate, frequency, buyers });
-    samples.push(result.annualSpendingPower);
+    allResults.push(result);
+    spendingSamples.push(result.annualSpendingPower);
   }
 
-  samples.sort((a, b) => a - b);
+  spendingSamples.sort((a, b) => a - b);
 
   const percentile = (arr: number[], p: number) => {
     const idx = Math.floor(arr.length * p);
     return arr[Math.min(idx, arr.length - 1)];
   };
 
-  const mean = samples.reduce((a, b) => a + b, 0) / samples.length;
+  const mean = spendingSamples.reduce((a, b) => a + b, 0) / spendingSamples.length;
   const variance =
-    samples.reduce((sum, val) => sum + (val - mean) ** 2, 0) / samples.length;
+    spendingSamples.reduce((sum, val) => sum + (val - mean) ** 2, 0) / spendingSamples.length;
   const stdDev = Math.sqrt(variance);
 
-  const baseInputs: SpendingInputs = {
-    aov: inputs.aov.value,
-    returnRate: inputs.returnRate.value,
-    frequency: inputs.frequency.value,
-    buyers: inputs.buyers.value,
-  };
+  // Sort each output independently to get proper percentiles
+  const sortedNetAov = allResults.map((r) => r.netAov).sort((a, b) => a - b);
+  const sortedTransactions = allResults.map((r) => r.transactions).sort((a, b) => a - b);
+  const sortedSpendPerBuyer = allResults.map((r) => r.spendPerBuyer).sort((a, b) => a - b);
 
-  const p10Val = percentile(samples, 0.1);
-  const p50Val = percentile(samples, 0.5);
-  const p90Val = percentile(samples, 0.9);
+  const makeOutputs = (p: number): SpendingOutputs => ({
+    netAov: percentile(sortedNetAov, p),
+    transactions: percentile(sortedTransactions, p),
+    annualSpendingPower: percentile(spendingSamples, p),
+    spendPerBuyer: percentile(sortedSpendPerBuyer, p),
+  });
 
   return {
-    p10: calculateFromSpendingPower(p10Val, baseInputs),
-    p50: calculateFromSpendingPower(p50Val, baseInputs),
-    p90: calculateFromSpendingPower(p90Val, baseInputs),
-    samples,
+    p10: makeOutputs(0.1),
+    p50: makeOutputs(0.5),
+    p90: makeOutputs(0.9),
+    samples: spendingSamples,
     mean,
     stdDev,
   };
